@@ -2,10 +2,10 @@
 I make list to do section in this course <br/>
 Work with : <br/>
 
-Arham (list to do) : github.com/arhamxyz <br/>
-Naufal (Alarm) <br/>
-Chiyanyung (Alarm): github.com/chiany3 <br/>
-Hamzah (Log in) : github.com/hamzahpane <br/>
+Arham : github.com/arhamxyz <br/>
+Naufal <br/>
+Chiyanyung : github.com/chiany3 <br/>
+Hamzah : github.com/hamzahpane <br/>
 
 The course include :
 - User persona <br/>
