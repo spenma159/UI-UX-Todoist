@@ -1,7 +1,6 @@
 # UI-UX Todoist
 I make list to do section in this course <br/>
-I created UI/UX list to do mobile app with <br/>
-link : https://www.figma.com/file/ENC5e1wzjrpKYH1fDMCcxh/UI%2FUX-Group-2?node-id=0%3A1
+Work with : <br/>
 
 Arham (list to do) : github.com/arhamxyz <br/>
 Naufal (Alarm) <br/>
