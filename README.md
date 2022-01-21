@@ -20,5 +20,5 @@ The course include :
 - UI Guide <br/>
 - UI Layout <br/>
 
-Thanks to our teacher Sri Soedewi :)
+Thanks to our teacher Sri Soedewi :)<br/>
 link : https://www.linkedin.com/in/sri-soedewi/
